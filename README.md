@@ -2,16 +2,16 @@
 
  <div>
   <a href="mailto:pzzz.silva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
   </a>
-  <a href="linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://br.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="instagram.com/jc.pzzz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=orange" target="_blank">
+  <a href="https://www.instagram.com/jc.pzzz/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=Instagram&logoColor=orange" target="_blank">
   </a>
-  <a href="github.com/C4Pzz" target="_blank">
-    <img src="https://img.shields.io/badge/-Follow me-black?style=flat-square&logo=Github&logoColor=white" target="_blank">
+  <a href="https://github.com/carlos-pzzz/" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=Github&logoColor=white" target="_blank">
   </a>
 </div>
 
@@ -46,6 +46,6 @@ Hello! My name is José Carlos, but you can me call only Carlos. Today at 19 yea
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=C4Pzz&count_private=true&include_all_commits=false&show_icons=true&theme=github_dark" alt="status"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4Pzz&langs_count=10&layout=compact&theme=github_dark" alt="most used languages"/>
+    <img width="500em" alt="status"
+         src="https://github-readme-stats.vercel.app/api?username=carlos-pzzz&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark"/>
 </p>
