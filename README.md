@@ -43,9 +43,6 @@ Hello! My name is José Carlos, but you can me call only Carlos. Today at 19 yea
 <br>
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Stats
 
-<p align="left">
-    <img width="500em" alt="status"
-         src="https://github-readme-stats.vercel.app/api?username=carlos-pzzz&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark"/>
-</p>
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-pzzz&show_icons=true&theme=transparent)](https://github.com/carlos-pzzz/carlos-pzzz)
